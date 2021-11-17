@@ -1,8 +1,8 @@
-# eKYC 
+# FRS on OAK1
 
-## _Electronic Know Your Customer_
+## Face Recognize System on camera OAK1
 
-This project contains our work that target on solving some problems of eKYC
+This project contains our work that deploy on camera OAK1
 
 
 ## Features
@@ -32,18 +32,6 @@ This project contains our work that target on solving some problems of eKYC
 ## Usage/Custom
 - Customs models in lines `398,427,445,495,549,564`
 - Customs datasets in line `336`
-
-  
-## Deployment
-
-To deploy this project run
-
-
-  
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
   
 ## Authors
 - TuanTA
