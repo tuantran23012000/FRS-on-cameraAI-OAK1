@@ -1,0 +1,8 @@
+depthai==2.3.0.0
+opencv-python==4.4.0.46
+opencv-contrib-python==4.4.0.46
+numpy==1.17.5
+scipy==1.4.1
+imutils==0.5.3
+h5py==2.10.0
+annoy==1.17.0
